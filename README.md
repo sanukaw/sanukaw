@@ -1,8 +1,14 @@
 
-# 👋 Hello, I'm Sanuka Wasala!  
+<h1 align="center">👋 Hello, I'm Sanuka Wasala!</h1>
+<h3 align="center">Enterprise Software Engineer • Digital Architect • Founder @ Wasala Systems Solutions & Digital Innovations</h3>
 
-🖤 Welcome to my GitHub profile!  
-I’m an **Enterprise Software Engineer & Digital Architect** passionate about building scalable banking platforms, enterprise admin systems, and innovative digital products under **Wasala Systems Solutions & Digital Innovations**.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=00E5FF&center=true&vCenter=true&width=900&lines=Enterprise+Banking+Systems+Engineer;Spring+Boot+%7C+Angular+%7C+Architecture;Digital+Innovation+Builder;Wasala+Systems+Solutions+%26+Digital+Innovations"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sanukaw&label=PROFILE+VIEWS&color=0f172a&style=for-the-badge"/>
+</p>
 
 ---
 
