@@ -18,8 +18,9 @@
 - 🏦 Working on **enterprise banking admin systems & dual-authorization workflows**  
 - 🧠 Focused on **Clean Architecture, Secure APIs, and scalable backend systems**  
 - 🚀 Founder of **Wasala Systems Solutions & Digital Innovations**  
-- 🎓 IT Undergraduate @ ECU Sri Lanka  
-- 🎯 Fun Fact: I love transforming complex business logic into clean architecture solutions.
+- 🎓 IT Graduate @ ECU Sri Lanka
+- 🎓 IT Postgraduate @ University of Westminster (Msc ASE)
+- 🎯 Fun Fact - I love transforming complex business logic into clean architecture solutions.
 
 ---
 
